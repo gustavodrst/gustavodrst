@@ -1,4 +1,4 @@
-# Olá, sou Gustavo!:
+# Olá, sou Gustavo!
 Graduando de Estatística pela UFU(Universidade Federal de Uberlândia)<br>
 
 
